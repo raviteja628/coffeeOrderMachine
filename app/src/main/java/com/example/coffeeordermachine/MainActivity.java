@@ -25,8 +25,6 @@ import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.example.coffeeordermachine.R;
-
 import java.text.NumberFormat;
 
 /**
