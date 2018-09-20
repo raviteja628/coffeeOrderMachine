@@ -29,6 +29,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/name"
+            android:textColor="#000e3e"
             android:inputType="text" />
 
         <TextView
